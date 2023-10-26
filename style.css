@@ -75,7 +75,7 @@ img {
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: red;
+      color: white;
 }
 
 .smalltext {
@@ -99,7 +99,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color:red;
+    background-color:white;
     overflow: hidden;
 }
 
@@ -109,7 +109,7 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -120,9 +120,20 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: red;
+    background-color: white;
 }
 
 .item-tekst {
-  color: red;
+  color: white;
+  text-align: center; /* Horizontaal centreren van de tekst */
+  vertical-align: middle; /* Verticaal centreren van de tekst */
+  
+}
+
+#mijnafbeelding {
+  width: 20%
+}
+
+#mijntekst {
+  margin-right:20%
 }
