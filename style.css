@@ -135,5 +135,11 @@ nav li a.active {
 }
 
 #mijntekst {
-  margin-right:20%
+  margin-right: 20%;
+  text-decoration: red;
+  
+}
+
+.smalltext {
+  color: white;
 }
