@@ -151,3 +151,15 @@ nav li a.active {
 #mijntekst {
   color: white;
 }
+
+.verplaatsbare-tekst {
+  position: absolute;
+  top: 150px;
+  left: 1050px;
+}
+
+.page {
+  background-color: black;
+  color:black
+}
+
